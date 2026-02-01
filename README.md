@@ -1,5 +1,24 @@
 # 终端配置备份使用说明
 
+## 图标预览
+
+### Ghostty 图标
+![Ghostty Icon](ghostty/ghostty.png)
+
+### Kitty 图标
+<div style="display: flex; gap: 20px;">
+  <div>
+    <p><strong>Light Theme</strong></p>
+    <img src="kitty/kitty-light.icns" alt="Kitty Light Icon" width="128">
+  </div>
+  <div>
+    <p><strong>Dark Theme</strong></p>
+    <img src="kitty/kitty-dark.icns" alt="Kitty Dark Icon" width="128">
+  </div>
+</div>
+
+---
+
 ## Ghostty 配置恢复
 
 ### 1. 恢复配置文件
