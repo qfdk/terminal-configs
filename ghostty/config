@@ -1,0 +1,5 @@
+# Ghostty 配置
+
+# 自定义应用图标
+macos-icon = custom
+macos-custom-icon = /Users/qfdk/Pictures/icons/ghostty_adjusted.icns
