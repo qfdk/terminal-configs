@@ -3,19 +3,16 @@
 ## 图标预览
 
 ### Ghostty 图标
-![Ghostty Icon](ghostty/ghostty.png)
+<img src="ghostty/ghostty.png" alt="Ghostty Icon" height="200">
 
 ### Kitty 图标
-<div style="display: flex; gap: 20px;">
-  <div>
-    <p><strong>Light Theme</strong></p>
-    <img src="kitty/kitty-light.icns" alt="Kitty Light Icon" width="128">
-  </div>
-  <div>
-    <p><strong>Dark Theme</strong></p>
-    <img src="kitty/kitty-dark.icns" alt="Kitty Dark Icon" width="128">
-  </div>
+
+<div>
+  <img src="kitty/kitty-light.png" alt="Kitty Light" height="200" style="margin-right: 20px;">
+  <img src="kitty/kitty-dark.png" alt="Kitty Dark" height="200">
 </div>
+
+> Kitty 图标使用自: [DinkDonk/kitty-icon](https://github.com/DinkDonk/kitty-icon)
 
 ---
 
