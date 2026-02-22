@@ -1,5 +1,46 @@
 # Ghostty 配置
 
-# 自定义应用图标
+theme = Carbonfox
+maximize = true
+font-family = JetBrains Mono
+font-size = 16
+
+# 字体渲染优化（提升清晰度）
+font-thicken = true
+font-feature = -calt
+font-feature = -liga
+
+# 背景透明度（0.0 完全透明，1.0 完全不透明）
+background-opacity = 0.95
+
+# 窗口内边距
+window-padding-x = 8
+window-padding-y = 8
+background = #1D1D1D
+foreground = #F6F825
+selection-background = #2a2a2a
+selection-foreground = #f2f4f8
+selection-invert-fg-bg = true
+cursor-color = #f2f4f8
+cursor-text = #161616
+cursor-style = bar
+palette = 0=#282828
+palette = 1=#ee5396
+palette = 2=#00FF74
+palette = 3=#08bdba
+palette = 4=#78a9ff
+palette = 5=#be95ff
+palette = 6=#33b1ff
+palette = 7=#dfdfe0
+palette = 8=#484848
+palette = 9=#f16da6
+palette = 10=#46c880
+palette = 11=#2dc7c4
+palette = 12=#8cb6ff
+palette = 13=#c8a5ff
+palette = 14=#52bdff
+palette = 15=#e4e4e5
+
+# 自定义图标
 macos-icon = custom
-macos-custom-icon = /Users/qfdk/Pictures/icons/ghostty_adjusted.icns
+macos-custom-icon = /Users/qfdk/Pictures/icons/ghostty.icns
